@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-streak-stats.qmdeve.com/?user=false867&theme=transparent&border_radius=30&date_format=%5BY.%5Dn.j)
 
-![Divider Line](./assets/colored.png)
+
 
 
 ### Contact Me:
