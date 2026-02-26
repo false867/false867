@@ -12,7 +12,7 @@
 
 ### Contact Me:
 
-[![QQ](https://img.shields.io/badge/-2397172859-f96f0d?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/mmANTYzcey)
+[![QQ](https://img.shields.io/badge/-2397172859-f96f0d?style=flat&logo=qq&logoColor=white)]
 
 
 <!--
