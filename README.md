@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hello, I'm Donny Yale
+# Hello, I'm false867
 
 ![GitHub Stats](https://stats.qmdeve.com/api?username=false867&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
 
@@ -9,11 +9,6 @@
 
 ![Divider Line](./assets/colored.png)
 
-### WebSite
-[![Personal Homepage](https://img.shields.io/badge/Personal%20Homepage-qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://qmdeve.com)
-[![My Blog](https://img.shields.io/badge/My%20Blog-blog.qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://blog.qmdeve.com)
-
-![Divider Line](./assets/colored.png)
 
 ### Contact Me:
 
