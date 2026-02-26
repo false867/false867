@@ -1,4 +1,24 @@
 ## Hi there 👋
+# Hello, I'm Donny Yale
+
+![GitHub Stats](https://stats.qmdeve.com/api?username=false867&show_icons=true&random=2&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
+
+![GitHub Top Languages](https://stats.qmdeve.com/api/top-langs/?username=false867&random=1&show_icons=true&theme=transparent&icon_color=0b61f4&title_color=0b61f4&text_color=0b61f4&border_radius=30)
+
+![GitHub Streak](https://github-streak-stats.qmdeve.com/?user=false867&theme=transparent&border_radius=30&date_format=%5BY.%5Dn.j)
+
+![Divider Line](./assets/colored.png)
+
+### WebSite
+[![Personal Homepage](https://img.shields.io/badge/Personal%20Homepage-qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://qmdeve.com)
+[![My Blog](https://img.shields.io/badge/My%20Blog-blog.qmdeve.com-0b61f4?style=flat&logo=google-chrome&logoColor=white)](https://blog.qmdeve.com)
+
+![Divider Line](./assets/colored.png)
+
+### Contact Me:
+
+[![QQ](https://img.shields.io/badge/-2397172859-f96f0d?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/mmANTYzcey)
+
 
 <!--
 **false867/false867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
